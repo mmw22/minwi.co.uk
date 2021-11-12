@@ -1,0 +1,10 @@
+---
+layout: none
+permalink: .well-known/security.txt
+---
+Contact: mailto:security@minwi.co.uk
+Expires: 2022-11-11T11:49:00.000Z
+Acknowledgments: https://minwi.co.uk/hall-of-fame.html
+Preferred-Languages: en
+Canonical: https://minwi.co.uk/.well-known/security.txt
+Policy: https://minwi.co.uk/security-policy.html
