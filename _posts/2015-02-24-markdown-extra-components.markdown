@@ -10,6 +10,7 @@ tag:
 - extra
 category: blog
 author: jamesfoster
+font: 'Poppins', sans-serif;
 description: Markdown summary with different options
 ---
 
