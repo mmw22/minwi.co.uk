@@ -1,14 +1,14 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: minnie
+bio: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://ih1.redbubble.net/image.1475740202.6687/st,small,507x507-pad,600x600,f8f8f8.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://minwi.co.uk
+# your url: https://mmw22.github.io
 
 permalink: /:title/
 
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+# twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: https://mmw22.github.io
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: minwi@minwi.co.uk
 
 authors:
   johndoe:
@@ -65,6 +65,11 @@ authors:
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
+  minnie:
+    name: minnie
+    bio: it's me
+    external-image: true
+    picture: https://ih1.redbubble.net/image.1475740202.6687/st,small,507x507-pad,600x600,f8f8f8.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
